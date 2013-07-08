@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URC_Client", "URC_Client.csproj", "{A5BCF82F-1EA9-4954-9255-69A3DCBBFF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URC_Core", "..\URC_Core\URC_Core.csproj", "{C2DA85C2-BCD9-454A-B46B-2F225A2DD27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BCF82F-1EA9-4954-9255-69A3DCBBFF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BCF82F-1EA9-4954-9255-69A3DCBBFF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BCF82F-1EA9-4954-9255-69A3DCBBFF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BCF82F-1EA9-4954-9255-69A3DCBBFF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DA85C2-BCD9-454A-B46B-2F225A2DD27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DA85C2-BCD9-454A-B46B-2F225A2DD27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DA85C2-BCD9-454A-B46B-2F225A2DD27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DA85C2-BCD9-454A-B46B-2F225A2DD27C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
